@@ -20,8 +20,8 @@
 
 | Language      | Rating ⭐️ | Favorite Use            |
 | ------------- | :-------: | ---------------------- |
-| JavaScript    | ★★★★☆     | Web Apps, Automation   |
 | Python        | ★★★★☆     | Data, Scripting, AI    |
+| JavaScript    | ★★★★☆     | Web Apps, Automation   |
 | HTML / CSS    | ★★★★☆     | Sleek Frontends        |
 | Node.js       | ★★★☆☆     | Bots, Backends         |
 
