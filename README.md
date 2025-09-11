@@ -10,7 +10,7 @@
 
 - 🧑‍💻 **13-year-old Developer & Tech Enthusiast**
 - 🚀 Building cool things for the web since age 10!
-- 🌟 Creator of [NPMexplorer](https://npmexplorer.netlify.app) & [NPM-Analytics](https://github.com/sonuramashishnpm/NPM-Analytics) & [NPMWebAutomation]("https://github.com/sonuramashishnpm/NPMWebAutomation")
+- 🌟 Creator of [NPMexplorer](https://npmexplorer.netlify.app) & [NPM-Analytics](https://github.com/sonuramashishnpm/NPM-Analytics) & [NPMWebAutomation](https://github.com/sonuramashishnpm/NPMWebAutomation)
 - 💡 Passionate about coding, automation, & making knowledge free for all
 - 📚 Self-taught learner & always up for a challenge!
 
