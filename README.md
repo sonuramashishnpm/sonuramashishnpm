@@ -55,7 +55,7 @@
 
 ### 📬 Let's Connect!
 
-[![Gmail Badge](https://img.shields.io/badge/-npmdev@explorer.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:npmdev@explorer.com)
+[![Gmail Badge](https://img.shields.io/badge/-sonuramashishnpm@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:npmdev@explorer.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 
 ---
