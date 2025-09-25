@@ -61,7 +61,7 @@
 ---
 
 *“Coding is not just my skill, it’s my superpower!”*
-## Hi there 👋
+## We can connect to make a very better and best world
 
 <!--
 **sonuramashishnpm/sonuramashishnpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
