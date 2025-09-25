@@ -23,7 +23,7 @@
 | Python        | ★★★★☆     | Data, Scripting, AI    |
 | JavaScript    | ★★★★☆     | Web Apps, Automation   |
 | HTML / CSS    | ★★★★☆     | Sleek Frontends        |
-| Node.js       | ★★★☆☆     | Bots, Backends         |
+| Backends Flask     |★★★☆   | Backend
 
 ---
 
