@@ -42,7 +42,7 @@
             <div class="typewriter">Building the future, one code at a time – from Bihar to the world!</div>
         </header>
 
-        <div class="tabs">
+     <div class="tabs">
             <button class="tab-button active" onclick="openTab('about')">About Me</button>
             <button class="tab-button" onclick="openTab('skills')">Tech Stack</button>
             <button class="tab-button" onclick="openTab('projects')">Projects</button>
