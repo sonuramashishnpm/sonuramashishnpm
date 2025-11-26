@@ -54,8 +54,8 @@ _More in [my repos](https://github.com/sonuramashishnpm?tab=repositories). **npm
 - 🌟 **TEDx Speaker at 13**: Talked dreams & change – viral inspiration!
 - 🎓 **100% Scholarships**: Allen Kota + DDPS Kota – from 62% to 75% grades.
 - 🗣️ **Social Impact**: Raised education/liquor ban issues with CM Nitish Kumar.
-- 👥 **398K+ FB Followers**: Monetizing tech & social content as "Bihar Viral Boy".
-- 🤖 **AI Prodigy**: Built no-API LLM chains (ChatGPT/Gemini/Grok) in 6 months.
+- 👥 **404K+ FB Followers**: Monetizing tech & social content as "Bihar Viral Boy".
+- 🤖 **AI Prodigy**: Built no-API LLM chains (ChatGPT/Gemini/Grok).
 - 🚢 **Deployed 5+ Apps**: From Netlify to Render – shipping daily.
 
 </details>
@@ -67,8 +67,8 @@ _More in [my repos](https://github.com/sonuramashishnpm?tab=repositories). **npm
 
 Got an idea? Collab on AI automations or Bihar edtech? Hit me up!
 
-- **Email:** npmdev@explorer.com
-- **FB:** [398K+ Community](https://facebook.com/sonukumar)
+- **Email:** sonuramashishnpm@gmail.com
+- **FB:** [404K+ Community](https://m.facebook.com/100086909945617/)
 - **LinkedIn/Twitter:** Search **"Sonu Kumar Bihar Viral Boy"**
 
 _Pro Tip: Fork a repo & PR – let's code!_
