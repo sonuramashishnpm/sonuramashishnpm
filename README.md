@@ -42,7 +42,7 @@ _Summarize Bihar politics in one line:_ **"Stability in political instability"**
 | [NPMVoiceAI](https://github.com/sonuramashishnpm/NPMVoiceAI) | Voice-to-text AI prompts with unlimited tokens. | 1 | Python |
 | [NPMexplorer-Flask](https://npmexplorer-flask.onrender.com) | Backend-powered explorer—Flask routes for dynamic content. | - | HTML |
 
-_More in [my repos](https://github.com/sonuramashishnpm?tab=repositories). **npmai** lib coming to PyPI soon!_
+_More in [my repos](https://github.com/sonuramashishnpm?tab=repositories). **npmai** lib deployed to PyPI soon!_
 
 </details>
 
