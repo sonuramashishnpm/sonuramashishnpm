@@ -53,7 +53,7 @@
 | **NPM-Youtube-Automation** | 📺 Enter video details, get fully automated upload to YouTube (easy for all users) | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-Youtube-Automation) |
 | **NPMytdownloader** | 🗂️ Download YouTube videos/playlists as mp3/mp4 for free | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPMytdownloader) |
 | **Blockchain Voting System** | 🗳️ Hardware-secure device (RaspberryPi+Solidity) for tamper-proof, instant elections—student expo demo | *Student Expo Demo* | — |
-| **NPM Legal AI** | 🧑‍⚖️ Free legal intelligence toolkit | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPMLegalAI) |
+| **NPM Legal AI** | 🧑‍⚖️ Free legal intelligence toolkit | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-LEGAL-AI) |
 
 ---
 
