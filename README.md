@@ -10,7 +10,7 @@
 ---
 
 ## Hi, I'm **Sonu Kumar**! 🇮🇳🚀
-> **14-year-old tech prodigy & changemaker from Nalanda, Bihar.**
+> **14-year-old programmer & changemaker from Nalanda, Bihar.**
 > _From rural school to TEDx, building open source platforms and fixing democracy—one line of code at a time._
 
 ---
@@ -20,7 +20,7 @@
 - **“Bihar Viral Boy”** — Challenged my state's Chief Minister & inspired millions with civic activism at just 11.
 - **TEDx Speaker (13)** — My viral journey, “Zid aur Junoon: Sapnon ki Kahani”, [Watch Here↗️](https://youtu.be/qWTkKsegx9c?si=cBs0zQcUmCTmkIIG).
 - **Open Source Innovator** — AI tools, blockchain voting, data analytics, apps for everyone.
-- **Self-taught Engineer** — No family academics or formal CS—just pure grit, curiosity & internet!
+- **100% Scholarship  at Allen & DDPS school** — No family academics or formal CS—just pure grit, curiosity & internet!
 
 ---
 
@@ -34,7 +34,7 @@
 
 - **Python/AI:** Selenium, Flask, Pandas, NumPy, LangChain, OpenAI, Matplotlib, Automation
 - **Web Dev:** HTML, CSS, JS, Streamlit
-- **Blockchain/IoT:** Solidity, Raspberry Pi, hardware/software fusion
+- **Blockchain/IoT:** Solidity, Arduino, hardware/software fusion
 - **Deployment:** Netlify, Render, PyPI, VPS
 
 ---
@@ -46,7 +46,7 @@
 | **npmexplorer.netlify.app** | 🎓 Free educational notes, 20+ live news sources, debates, contributions, AI stock insights | [Live↗️](https://npmexplorer.netlify.app) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer) |
 | **npmexplorer-flask.onrender.com** | 💡 Automated Gemini/Google LLM search (no API!) | [Live↗️](https://npmexplorer-flask.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer-Flask-) |
 | **npmdata.streamlit.app** | 📊 Python/Streamlit NPM data analytics playground | [Live↗️](https://npmdata.streamlit.app) | [Repo](https://github.com/sonuramashishnpm/NPM-Analytics) |
-| **npmai** | 🔗 LangChain-based Python wrapper for multiple LLMs—import, use Grok, ChatGPT, Gemini, Copilot, and more! | [PyPI↗️](https://pypi.org/project/npmai) | [Repo](https://github.com/sonuramashishnpm/npmai) |
+| **npmai** | 🔗 LangChain-based Python wrapper for multiple LLMs—import, use Grok, ChatGPT, Gemini, Copilot, and more! | [PyPI↗️](https://pypi.org/project/npmai)  | [Repo](https://github.com/sonuramashishnpm/npmai) |
 | **NPMVoiceAI** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPMVoiceAI) |
 | **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
 | **NPM-Edu-A.I-Helper** | 📚 Send and study any size file, free for all students; connect with leading LLMs! | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-Edu-A.I-Helper) |
@@ -62,17 +62,18 @@
 - [NPMexplorer](https://github.com/sonuramashishnpm/NPMexplorer): All-in-one portal—news, entertainment, stocks, AI, and more!
 - [NPM-Analytics](https://github.com/sonuramashishnpm/NPM-Analytics): Data analytics dashboards, scripts, real-world demos.
 - [sonuramashishnpm](https://github.com/sonuramashishnpm/sonuramashishnpm): This animated profile you’re reading!
+- [npmai-documentation]("https://npmai.onrender.com"):Documentation of npmai.
 - And **many more** — Check my [GitHub profile](https://github.com/sonuramashishnpm) for the full list 🚀
 
 ---
 
 ## 💫 **Achievements**
 
-- 🏅 **405K+ Facebook followers** — Advocacy, tech tips, Bihar pride.
+- 🏅 **407K+ Facebook followers** — Advocacy, tech tips, Bihar pride.
 - 🎤 **TEDx Youth Speaker at 13** — Viral talk breaking education barriers.
 - 💡 **Prototype blockchain voting system** — triple-auth, tamper-proof results.
 - 🥇 **Allen Career Institute, Kota** — 100% scholarship winner from rural Bihar.
-- 👨‍💻 **Open Source AI** — Accessible, free tools for students (no API keys needed).
+- 👨‍💻 **Open Source AI** — "npmai" Accessible, free tools for students (no API keys needed).
 - 🌟 **National recognition:** Supported by Lok Sabha Speaker, Allen Directors, MIT, Oxford, and covered by leading media.
 
 ---
@@ -80,7 +81,7 @@
 ## 💬 **Social Impact Stories**
 
 - At 11, I went viral for reforming Bihar schools (leaky roofs, lacking teachers, broken liquor ban).
-- Built & lead a 400K+ youth empowerment movement on Facebook.
+- Built & lead a 407K+ youth empowerment movement on Facebook.
 - Creating free/ethical AI, legal, business tools for "broke students".
 - Blending rural activism with world-class innovation—hardware + AI + web!
 
