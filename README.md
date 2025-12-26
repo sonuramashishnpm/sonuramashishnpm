@@ -1,9 +1,5 @@
 <!-- Animated Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=FE278B&center=true&vCenter=true&width=700&lines=%F0%9F%87%A7%F0%9F%87%AE+Bihar+Viral+Boy+Sonu+Kumar+%E2%9C%A8;14+y%2Fold+Tech+Changemaker+%F0%9F%94%A5;Open+Source+AI%2C+Votes%2C+Education+Innovation!;TEDx+Speaker+%26+Global+Impact+Maker!" alt="Animated Banner">
-</p>
-
-<p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/rGJ6bGHc/Sonu2.jpg" alt="Sonu2" border="0" width="500"></a>
 </p>
 
@@ -23,22 +19,6 @@
 - **100% Scholarship  at Allen & DDPS school** — No family academics or formal CS—just pure grit, curiosity & internet!
 
 ---
-
-## ✨ **Tech Toolbox**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,streamlit,html,css,js,solidity,raspberrypi,selenium,git,github,docker,ai" />
-
-</div>
-
-- **Python/AI:** Selenium, Flask, Pandas, NumPy, LangChain, OpenAI, Matplotlib, Automation
-- **Web Dev:** HTML, CSS, JS, Streamlit
-- **Blockchain/IoT:** Solidity, Arduino, hardware/software fusion
-- **Deployment:** Netlify, Render, PyPI, VPS
-
----
-
 ## 🌟 **Major Projects & Repos**
 
 | Name   | Description | Live Demo | Repo |
@@ -54,44 +34,6 @@
 | **NPMytdownloader** | 🗂️ Download YouTube videos/playlists as mp3/mp4 for free | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPMytdownloader) |
 | **Blockchain Voting System** | 🗳️ Hardware-secure device (RaspberryPi+Solidity) for tamper-proof, instant elections—student expo demo | *Student Expo Demo* | — |
 | **NPM Legal AI** | 🧑‍⚖️ Free legal intelligence toolkit | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-LEGAL-AI) |
-
----
-
-## 🚀 **Other Awesome Repos**
-
-- [NPMexplorer](https://github.com/sonuramashishnpm/NPMexplorer): All-in-one portal—news, entertainment, stocks, AI, and more!
-- [NPM-Analytics](https://github.com/sonuramashishnpm/NPM-Analytics): Data analytics dashboards, scripts, real-world demos.
-- [sonuramashishnpm](https://github.com/sonuramashishnpm/sonuramashishnpm): This animated profile you’re reading!
-- [npmai-documentation]("https://npmai.onrender.com"):Documentation of npmai.
-- And **many more** — Check my [GitHub profile](https://github.com/sonuramashishnpm) for the full list 🚀
-
----
-
-## 💫 **Achievements**
-
-- 🏅 **407K+ Facebook followers** — Advocacy, tech tips, Bihar pride.
-- 🎤 **TEDx Youth Speaker at 13** — Viral talk breaking education barriers.
-- 💡 **Prototype blockchain voting system** — triple-auth, tamper-proof results.
-- 🥇 **Allen Career Institute, Kota** — 100% scholarship winner from rural Bihar.
-- 👨‍💻 **Open Source AI** — "npmai" Accessible, free tools for students (no API keys needed).
-- 🌟 **National recognition:** Supported by Lok Sabha Speaker, Allen Directors, MIT, Oxford, and covered by leading media.
-
----
-
-## 💬 **Social Impact Stories**
-
-- At 11, I went viral for reforming Bihar schools (leaky roofs, lacking teachers, broken liquor ban).
-- Built & lead a 407K+ youth empowerment movement on Facebook.
-- Creating free/ethical AI, legal, business tools for "broke students".
-- Blending rural activism with world-class innovation—hardware + AI + web!
-
----
-
-## 🏗️ **Mission & Goals**
-
-- Democratize education, AI, & civic tech for everyone.
-- Give rural students a global stage and affordable tools.
-- Transform adversity into action—empower millions with code.
 
 ---
 
@@ -114,17 +56,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonuramashishnpm&theme=radical">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonuramashishnpm&theme=github_dark">
 </div>
-
----
-
-## 🧠 **"Rural-Zero to Revolution": My Mantra**  
-> “No matter where you start, you can be the change. I choose code, courage, and kindness. Let's build... together.”
-
----
-
-<!-- Optional: ASCII Art fun -->
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Open+Source+For+Everyone!;AI+For+The+Broke+Student!;Blockchain+For+Clean+Democracy!;India+To+World+Stage!" />
-</p>
 
 ---
