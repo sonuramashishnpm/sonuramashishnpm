@@ -30,8 +30,9 @@
 | **NPMVoiceAI** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | [Live↗️](https://npmvoiceaiweb.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMVoiceAI) |
 | **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
 | **NPM-Edu-A.I-Helper** | 📚 Send and study any size file, free for all students; connect with leading LLMs! | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-Edu-A.I-Helper) |
-| **NPM-Youtube-Automation** | 📺 Enter video details, get fully automated upload to YouTube (easy for all users) | [Live↗️](https://npmytautomation.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-Youtube-Automation) |
-| **NPMytdownloader** | 🗂️ Download YouTube videos/playlists as mp3/mp4 for free | [Live↗️](https://npmyt.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMytdownloader) |
+| **NPM-Youtube-Automation** | 📺 Enter video details, get fully automated upload to YouTube (easy for all users) | [Live↗️](https://npmyt.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-Youtube-Automation) |
+| **NPM-AutoCode-AI** | 📺 Enter Tasks and watch automation| [Live↗️](https://npmcodeai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-AutoCode-AI) |
+| **NPMytdownloader** | 🗂️ Download YouTube videos/playlists as mp3/mp4 for free | [Live↗️](https://npmytdownloader.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMytdownloader) |
 | **Blockchain Voting System** | 🗳️ Hardware-secure device (RaspberryPi+Solidity) for tamper-proof, instant elections—student expo demo | *Student Expo Demo* | — |
 | **NPM Legal AI** | 🧑‍⚖️ Free legal intelligence toolkit | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-LEGAL-AI) |
 
