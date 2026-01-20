@@ -29,7 +29,7 @@
 | **npmdata.streamlit.app** | 📊 Python/Streamlit NPM data analytics playground | [Live↗️](https://npmdata.streamlit.app) | [Repo](https://github.com/sonuramashishnpm/NPM-Analytics) |
 | **npmai** | 🔗 LangChain-based Python wrapper for multiple LLMs—import, use Grok, ChatGPT, Gemini, Copilot, and more! | [PyPI↗️](https://pypi.org/project/npmai)  | [Repo](https://github.com/sonuramashishnpm/npmai) |
 | **NPMVoiceAI** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | [Live↗️](https://npmvoiceaiweb.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMVoiceAI) |
-| **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
+| **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | [Live](https://npmbusinessai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
 | **NPM-Edu-A.I-Helper** | 📚 Send and study any size file, free for all students; connect with leading LLMs! | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-Edu-A.I-Helper) |
 | **NPM-Youtube-Automation** | 📺 Enter video details, get fully automated upload to YouTube (easy for all users) | [Live↗️](https://npmyt.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-Youtube-Automation) |
 | **NPM-AutoCode-AI** | ✨ Enter Tasks and watch automation| [Live↗️](https://npmcodeai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-AutoCode-AI) |
