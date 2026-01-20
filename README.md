@@ -23,6 +23,7 @@
 
 | Name   | Description | Live Demo | Repo |
 |--------|-------------|-----------|------|
+| **NPM-Journalist** | You can raise voice to Government without getting traced,safe & secure journalism | [Live↗️](https://npmjournalist.onrender.com) |[Repo](https://github.com/sonuramashishnpm/NPM-Journalist) |
 | **npmexplorer.netlify.app** | 🎓 Free educational notes, 20+ live news sources, debates, contributions, AI stock insights | [Live↗️](https://npmexplorer.netlify.app) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer) |
 | **npmexplorer-flask.onrender.com** | 💡 Automated Gemini/Google LLM search (no API!) | [Live↗️](https://npmexplorer-flask.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer-Flask-) |
 | **npmdata.streamlit.app** | 📊 Python/Streamlit NPM data analytics playground | [Live↗️](https://npmdata.streamlit.app) | [Repo](https://github.com/sonuramashishnpm/NPM-Analytics) |
