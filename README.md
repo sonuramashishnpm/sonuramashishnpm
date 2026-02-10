@@ -24,10 +24,11 @@
 | Name   | Description | Live Demo | Repo |
 |--------|-------------|-----------|------|
 | **NPM-Journalist** | You can raise voice to Government without getting traced,safe & secure journalism | [Live↗️](https://npmjournalist.onrender.com) |[Repo](https://github.com/sonuramashishnpm/NPM-Journalist) |
+| **NPM-Debate-AI**  | You can enjoy debate of 4 AI models just enter topic and enjoy infinite debate arena | [Live↗️](https://npmdebateai.onrender.com)|[Repo](https://github.com/sonuramashish/NPM-Debater-AI) |
 | **npmexplorer.netlify.app** | 🎓 Free educational notes, 20+ live news sources, debates, contributions, AI stock insights | [Live↗️](https://npmexplorer.netlify.app) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer) |
 | **npmexplorer-flask.onrender.com** | 💡 Automated Gemini/Google LLM search (no API!) | [Live↗️](https://npmexplorer-flask.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer-Flask-) |
 | **npmdata.streamlit.app** | 📊 Python/Streamlit NPM data analytics playground | [Live↗️](https://npmdata.streamlit.app) | [Repo](https://github.com/sonuramashishnpm/NPM-Analytics) |
-| **npmai** | 🔗 LangChain-based Python wrapper for multiple LLMs—import, use Grok, ChatGPT, Gemini, Copilot, and more! | [PyPI↗️](https://pypi.org/project/npmai)  | [Repo](https://github.com/sonuramashishnpm/npmai) |
+| **npmai** | Use 10+ Ollama Models without installing anything,inbuilt memory logic,Rag Framework (Develop RAG agent without any installation of other framework or local load) | [PyPI↗️](https://pypi.org/project/npmai)  | [Repo](https://github.com/sonuramashishnpm/npmai) |
 | **NPMVoiceAI** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | [Live↗️](https://npmvoiceaiweb.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMVoiceAI) |
 | **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | [Live](https://npmbusinessai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
 | **NPM-Edu-A.I-Helper** | 📚 Send and study any size file, free for all students; connect with leading LLMs! | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-Edu-A.I-Helper) |
