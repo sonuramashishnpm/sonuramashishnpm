@@ -43,7 +43,7 @@
 ## ✨ **Let's Connect & Collaborate!**
 
 <p align="center">
-  <a href="https://facebook.com/share/19dvhX1mH7/"><img src="https://img.shields.io/badge/Facebook-405k%2B%20Followers-blue?style=for-the-badge&logo=facebook" /></a>
+  <a href="https://facebook.com/share/19dvhX1mH7/"><img src="https://img.shields.io/badge/Facebook-425k%2B%20Followers-blue?style=for-the-badge&logo=facebook" /></a>
   <a href="https://youtu.be/qWTkKsegx9c?si=cBs0zQcUmCTmkIIG"><img src="https://img.shields.io/badge/TEDx-Talk-red?style=for-the-badge&logo=youtube" /></a>
   <a href="https://pypi.org/project/npmai"><img src="https://img.shields.io/pypi/v/npmai?logo=pypi&style=for-the-badge" /></a>
   <a href="mailto:sonu.kr.nalanda@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-green?style=for-the-badge&logo=gmail" /></a>
