@@ -29,7 +29,7 @@
 | **npmexplorer-flask.onrender.com** | 💡 Automated Gemini/Google LLM search (no API!) | [Live↗️](https://npmexplorer-flask.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer-Flask-) |
 | **npmdata.streamlit.app** | 📊 Python/Streamlit NPM data analytics playground | [Live↗️](https://npmdata.streamlit.app) | [Repo](https://github.com/sonuramashishnpm/NPM-Analytics) |
 | **npmai** | Use 10+ Ollama Models without installing anything,inbuilt memory logic,Rag Framework (Develop RAG agent without any installation of other framework or local load) | [PyPI↗️](https://pypi.org/project/npmai)  | [Repo](https://github.com/sonuramashishnpm/npmai) |
-| **NPMVoiceAI** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | [Live↗️](https://npmvoiceaiweb.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMVoiceAI) |
+| **NPMAI-Chatbot** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | [Live↗️](https://npmvoiceaiweb.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMAI-Chatbot) |
 | **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | [Live](https://npmbusinessai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
 | **NPM-Edu-A.I-Helper** | 📚 Send and study any size file, free for all students; connect with leading LLMs! | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-Edu-A.I-Helper) |
 | **NPM-Youtube-Automation** | 📺 Enter video details, get fully automated upload to YouTube (easy for all users) | [Live↗️](https://npmyt.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-Youtube-Automation) |
