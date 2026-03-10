@@ -54,6 +54,7 @@
   <a href="https://pypi.org/project/npmai"><img src="https://img.shields.io/pypi/v/npmai?logo=pypi&style=for-the-badge" /></a>
   <a href="mailto:sonu.kr.nalanda@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-green?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/sonuramashishnpm"><img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://youtube.com/@sonukumartedxspeakerviralboy?si=lLToRkbMq7l9DuJn"><img src="https://img.shields.io/badge/Sonu%20Kumar%20Viral%20Boy-red?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 ---
