@@ -13,10 +13,16 @@
 
 ### 🔥 **Who Am I?**
 
-- **“Bihar Viral Boy”** — Challenged my state's Chief Minister & inspired millions with civic activism at just 11.
-- **TEDx Speaker (13)** — My viral journey, “Zid aur Junoon: Sapnon ki Kahani”, [Watch Here↗️](https://youtu.be/qWTkKsegx9c?si=cBs0zQcUmCTmkIIG).
+- **Software Developer**
+- **A.I Developer**
+- **Web Developer**
+- **Cloud Developer**
+- **Devops**
+- **Tech Prodigy**
+- **“Social Thinker”** — Challenged my state's Chief Minister & inspired millions with civic activism at just 11, raising social priblem with solution on Social Platforms.
+- **TEDx Speaker (at 13)** — My viral journey, “Zid aur Junoon: Sapnon ki Kahani”, [Watch Here↗️](https://youtu.be/qWTkKsegx9c?si=cBs0zQcUmCTmkIIG).
 - **Open Source Innovator** — AI tools, blockchain voting, data analytics, apps for everyone.
-- **100% Scholarship  at Allen & DDPS school** — No family academics or formal CS—just pure grit, curiosity & internet!
+- **100% Scholarship at Allen & DDPS school** — No family academics or formal CS—just pure grit, curiosity & internet!
 
 ---
 ## 🌟 **Major Projects & Repos**
