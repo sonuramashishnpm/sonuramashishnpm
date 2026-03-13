@@ -31,18 +31,16 @@
 |--------|-------------|-----------|------|
 | **NPM-Journalist** | You can raise voice to Government without getting traced,safe & secure journalism | [Live↗️](https://npmjournalist.onrender.com) |[Repo](https://github.com/sonuramashishnpm/NPM-Journalist) |
 | **NPM-Debate-AI**  | You can enjoy debate of 4 AI models just enter topic and enjoy infinite debate arena | [Live↗️](https://npmdebateai.onrender.com)|[Repo](https://github.com/sonuramashish/NPM-Debater-AI) |
-| **npmexplorer.netlify.app** | 🎓 Free educational notes, 20+ live news sources, debates, contributions, AI stock insights | [Live↗️](https://npmexplorer.netlify.app) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer) |
-| **npmexplorer-flask.onrender.com** | 💡 Automated Gemini/Google LLM search (no API!) | [Live↗️](https://npmexplorer-flask.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer-Flask-) |
+| **NPMExplorer** | 🎓 Free educational notes, 20+ live news sources, debates, contributions, AI stock insights | [Live↗️](https://npmexplorer.netlify.app) | [Repo](https://github.com/sonuramashishnpm/NPMexplorer) |
 | **npmdata.streamlit.app** | 📊 Python/Streamlit NPM data analytics playground | [Live↗️](https://npmdata.streamlit.app) | [Repo](https://github.com/sonuramashishnpm/NPM-Analytics) |
-| **npmai** | Use 10+ Ollama Models without installing anything,inbuilt memory logic,Rag Framework (Develop RAG agent without any installation of other framework or local load) | [PyPI↗️](https://pypi.org/project/npmai)  | [Repo](https://github.com/sonuramashishnpm/npmai) |
-| **NPMAI-Chatbot** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | [Live↗️](https://npmvoiceaiweb.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMAI-Chatbot) |
-| **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | [Live](https://npmbusinessai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
-| **NPM-Edu-A.I-Helper** | 📚 Send and study any size file, free for all students; connect with leading LLMs! | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-Edu-A.I-Helper) |
+| **npmai** | Use 10+ Ollama Models without installing anything,inbuilt memory logic,Rag Framework (Develop RAG agent without any installation of other framework or local load) | [PyPI↗️](https://pypi.org/project/npmai)  | [Live↗️](https://npmai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/npmai) |
+| **NPMAI-Chatbot** | 🎤 Full-stack voice/text AI toolkit (unlimited tokens, automation) | [Live↗️](https://npmaichat.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMAI-Chatbot) |
+| **NPMBusinessanalysisai** | 📈 AI-powered business process analysis, cost/time-saving workflows | [Live](https://npmbusinessai.netlify.app) | [Repo](https://github.com/sonuramashishnpm/NPMBusinessanalysisai) |
+| **NPM-Rag-AI** | NPM Rag A.I is a beautiful, easy-to-use web application that lets you instantly create and talk to your own private or public knowledge bases using RAG (Retrieval-Augmented Generation). | [Live↗️](https://npmragai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-Rag-AI) |
 | **NPM-Youtube-Automation** | 📺 Enter video details, get fully automated upload to YouTube (easy for all users) | [Live↗️](https://npmyt.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-Youtube-Automation) |
 | **NPM-AutoCode-AI** | ✨ Enter Tasks and watch automation| [Live↗️](https://npmcodeai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-AutoCode-AI) |
-| **NPMytdownloader** | 🗂️ Download YouTube videos/playlists as mp3/mp4 for free | [Live↗️](https://npmytdownloader.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPMytdownloader) |
 | **Blockchain Voting System** | 🗳️ Hardware-secure device (RaspberryPi+Solidity) for tamper-proof, instant elections—student expo demo | *Student Expo Demo* | — |
-| **NPM Legal AI** | 🧑‍⚖️ Free legal intelligence toolkit | *Not Live* | [Repo](https://github.com/sonuramashishnpm/NPM-LEGAL-AI) |
+| **NPM Legal AI** | 🧑‍⚖️ Free legal intelligence toolkit | [Live↗️](https://npmlegalai.onrender.com) | [Repo](https://github.com/sonuramashishnpm/NPM-LEGAL-AI) |
 
 ---
 
