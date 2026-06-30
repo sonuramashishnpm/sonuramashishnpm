@@ -14,6 +14,7 @@
 ### 🔥 **Who Am I?**
 
 -**Founder NPMAI ECOSYSTEM**
+-**HOD Research Tech & Political Science**
 - **Software Developer**
 - **A.I Developer**
 - **Web Developer**
