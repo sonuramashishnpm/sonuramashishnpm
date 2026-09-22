@@ -1,6 +1,7 @@
 <!-- Animated Profile Banner -->
+<!--Link:-https://i.ibb.co/rGJ6bGHc/Sonu2.jpg -->
 <p align="center">
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/rGJ6bGHc/Sonu2.jpg" alt="Sonu2" border="0" width="500"></a>
+  <a href="https://imgbb.com/"><img src="sonu.png" alt="Sonu2" border="0" width="500"></a>
 </p>
 
 ---
